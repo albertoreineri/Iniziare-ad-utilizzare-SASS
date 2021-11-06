@@ -4,5 +4,5 @@ Source Code from the YouTube video:
 This is a very very simple example for beginners with SASS.
 
 ## VSCode Extension used:
-- [Live Sass Compiler] (https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
-- [Live Server] (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass">Live Sass Compiler</a>
+- <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
